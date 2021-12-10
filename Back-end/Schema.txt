@@ -1,0 +1,15 @@
+Guest(GID,Title,FName,LName,Email,Phoneno,Password,City of Residence,Country/Region of Residence,SMS)
+
+Admin(AID,Username,Password)
+
+Room(RID,Name,quntity,Detail,ImgURL)
+
+Hall(HID,Name,Detail,ImgURL)
+
+Booking(GID,BID,CheckIN,CheckOUT,Adults,Children,Infant,RID,HID,Date)
+
+Feedback(GID,FID,Date,Star,Feedback)
+
+CancelBooking(GID,BID,CBID,Date)
+
+Payment(BID,PID,PaymentMethod,Date,Time)
