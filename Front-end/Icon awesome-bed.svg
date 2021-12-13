@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="48" viewBox="0 0 80 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #128305;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-bed" data-name="Icon awesome-bed" class="cls-1" d="M22,28.5a10,10,0,1,0-10-10A10.012,10.012,0,0,0,22,28.5Zm44-16H38a2,2,0,0,0-2,2v18H8V6.5a2,2,0,0,0-2-2H2a2,2,0,0,0-2,2v44a2,2,0,0,0,2,2H6a2,2,0,0,0,2-2v-6H72v6a2,2,0,0,0,2,2h4a2,2,0,0,0,2-2v-24A14,14,0,0,0,66,12.5Z" transform="translate(0 -4.5)"/>
+</svg>

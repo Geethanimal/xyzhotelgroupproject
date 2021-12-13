@@ -1,0 +1,47 @@
+#top{
+    background-color: #D4AF37;
+    height: 10vh;
+}
+
+.slide{
+    padding-top: 2vh;
+    padding-left: 40px;
+    width: 480px;
+    height: 150px;
+    }
+    
+    h4{
+        
+        padding-left: 40px;
+        padding-top: 20vh;
+    }
+    
+    p{
+        padding-left:30px;
+    }
+
+     h6{
+        margin-top: 0px;
+        font-size: 20px;
+    }
+
+    hr{
+        align-items: center;
+        width: 70%;   
+    }
+    
+    h5{
+        text-align: center;
+    }
+    
+    ul{
+     text-align: center;
+     padding-top: 50px;
+     padding-left: 10px;
+     font-size: 15px;
+    }
+    
+    ul li{
+        display: inline-block;
+        width: 260px;
+    }
