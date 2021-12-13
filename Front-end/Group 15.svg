@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="117" viewBox="0 0 152 117">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #d4af37;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 40px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_15" data-name="Group 15" transform="translate(-500 -255)">
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(531 255)">
+      <circle class="cls-4" cx="42.5" cy="42.5" r="42.5"/>
+      <circle class="cls-5" cx="42.5" cy="42.5" r="42"/>
+    </g>
+    <text id="_1" data-name="1" class="cls-2" transform="translate(574 314)"><tspan x="-11.504" y="0">1</tspan></text>
+    <text id="HOTEL_DATES" data-name="HOTEL &amp; DATES" class="cls-3" transform="translate(576 367)"><tspan x="-75.493" y="0">HOTEL &amp; DATES</tspan></text>
+  </g>
+</svg>
