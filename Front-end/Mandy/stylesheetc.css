@@ -1,0 +1,143 @@
+@media screen and (min-width: 768px) {
+    .ov1{
+        padding-left:6.25rem !important ;
+        padding-right:6.25rem !important ;
+    }
+  
+body{
+    background-color: #E5E5E5;
+    color: #707070;
+}
+.top{
+    background-color: #B3A258;
+    height: 15vh;
+}
+.top svg{
+    width: 75px;
+    height: 75px;
+    margin-top: 11vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.hs1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: black;
+}
+.hs2{
+    color: black;
+    padding: 5px;
+}
+.ftboxrw1{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.ftboxrw2{
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+.sdboxrw1{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.sdboxrw2{
+    background-color: white;
+    color: black;
+}
+.sdbox{
+    padding: 20px;
+}
+.tdboxrw1{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.tdboxrw2{
+    background-color: white;
+    color: black;
+}
+.tdbox{
+    padding: 20px;
+}
+.ftimg{
+    width:280px;
+    height: 175px;
+    padding-top: 15px;
+}
+.sdpara1{
+    text-align: center;
+    color: #B3A258;
+    padding-top: 5px;
+}
+.sdboxcol2{
+    font-size: 12px;
+    padding: 15px;
+}
+.cdone{
+    width: 420px;
+    height: 130px;
+    padding: 15px;
+    margin-top: 60px;
+}
+.button1{
+  border: none;
+  color: rgb(252, 252, 252);
+  padding: 10px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #B3A258;
+}
+
+.card-header1{
+    background-color:#707070;
+    padding: 5px;
+    color: white;
+}
+.card-body1{
+    background-color: #BCBCBC;
+    padding: 10px;
+    color: black;
+}
+.sdimg{
+    width:280px;
+    height: 175px;
+    padding-top: 15px;
+}
+.iconsvg svg{
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.hd h6{
+   text-align: center;
+}
+.iconsvg p {
+  text-align: center;
+}
+.fas{
+    color: #B3A258;
+}
+.ftboxrw1{
+    font-size: 15px;  
+}
+.in{
+    font-size: 12px;
+    width: 60px;
+    font-weight: 700;
+    color: black;
+}
+.ftboxrw2{
+    color: #B3A258; 
+    font-size: small;
+}
